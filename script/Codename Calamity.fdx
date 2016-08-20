@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="2">
+
+  <Content>
+    <Paragraph Type="General">
+      <Text>Some backstory, here are a bunch of observations about my own work:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* The Odyssians invaded this planet in 2025, the native Lizard people race were killed in a bloody war that they see as “The Invasion” while the Odyssians refer to it as “the Conquest”</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* The humans came in 2030 after destroying Earth and having already teraformed and destroyed Mars and some other </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">plan6ets</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* With the Odyssians, subconsciously I believe the names fell in to place</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>Keep in mind that characters, including you and Gamma all have infinite alternates based on the flow of spacetime and the other universes.</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>You meet many Gammas. Every one of them causes the calamity (it's explained as a singularity) and all have the same basic personality</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>You don't meet yourself but pick up a ton of knowledge about yourself along the way in terms of the present and various pasts that go on to solidify you enough for the character to fit on to an average player</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>ODYSSIANS -</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>GAMMA:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Gamma is the key anti hero, antagonist and protagonist of the game depending on the stage in the story.</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Gamma is head of science in the Odyssian empire under King Alpha but is exiled. Early speculation is his science caused damage, he was unhinged and power crazy</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* In reality, Gamma is in love with a girl that his time predicting invention, Damus, was aware of</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He was unable to find a method to save her following the rules of time travel and paradoxes to save her</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He cheated and saved her directly, justifying in his mind that his own death would prevent a calamity</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He was wrong and Damus predicts a 99% chance of calamity</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He hides this knowledge from the king until one day Delta brings his findings in his muzzle to the King</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He is exiled. He is arrogant and at times unfriendly but is brilliant and kind. Emily, his ex fiance, would be saved by his sacrifice, married to another man</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* You have known Gamma your entire life, freed him from exile and helped him up until he told you the truth</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* The truth was his solution had a 100% chance of saving 1% of the population while the King's scientist had a 99% chance of saving 100%)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* The pragmatist loses the argument, Gamma erases your memory using an enhancement to Damus in the airlock directly before the game starts</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>ALPHA:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* At first the primary antagonist, Gamma turns you against Alpha to try and save the world</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Although lied to, it would achieve Gamma's goal, since preventing Tauran and Delta hasn't given Gamma enough certainty to execute his plan</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Alpha is demonized by Gamma calling his worship a cult of personality, explaining the resistance resist him, which they do, but blindly</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He's stated as an oppressive liar and tyrant</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* In reality, he was the greatest leader the world had known and was about to save the world from his son, Gamma, who he loved but knew the flaws in</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Your killing of Alpha is irreversible, although teased consistently as almost possible. Killing him is the game's primary protagonist tragedy and is emphasised by the ugly state of the world without him</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* That world sees Gamma as a severely flawed king who is killed and deposed by Beta</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* King Beta has a rule that seems better and Gamma has requested you save him from prison and kill him</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Omega insists you free him to save the world from Gamma and allow Beta to become King</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>BETA:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* This turns out to be a terrible plan as Beta is an actual monster, brought to prison by Gamma's loyal guards for crimes against the land</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Once saved the future is a dystopian wasteland, Gamma eventually takes control but the place is a mess</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* This actually starts hinting that Gamma isn't evil or bad and is flawed and well meaning)\</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* You realize, either way, that you must undo what you did with Beta</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* You don't kill him, but ensure he is a prisoner</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* You do so in a way that allows a more peaceful change of leaders and Gamma is king</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>OMEGA:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Alpha's only daughter</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Omega is an innocent in this story, you murder her father and either the tyrannical Beta or the controlling Gamma takes over as King </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* She convinces you of the evilness that comes from Gamma but only after it’s too late</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* She tries to do so before it’s too late but she simply cannot get through</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Your sympathy with her as you try over and over to find a way to undo your murder of her father turns out impossible</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>DELTA (Canine), human’s brought them:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Omega’s dog</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He is swapped as your first real act of consequence in going back in time (before your first major act of murder)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Swapping him is intentional as he plays a pivotal role in Gamma’s inability to stop Tauran</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* This is one of the time change sequences in the game that you both can and have to do and undo in order to complete the game</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>REPTILIANS -</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>TAURAN:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Chief scientist for Alpha</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* You kill him as your first serious action for Gamma based on his instructions</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* This prevents him launching his machine and saving humanity</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* At first we believe this is because Gamma is evil and wanted to be King despite potentially destroying the Universe (the fact this never quite makes sense is fully intentional, it’s never supposed to sit completely right with you)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* He wishes to use his own machine, with a higher probability of success but for a much lower rate of survival (1%)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* You knew this, it’s why your memory was wiped</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* You agreed to have it wiped...........</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>FAUVAL</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Leader of one Reptilian tribe, was Destry’s right hand man but during the civil war broke away from the main tribe</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* During the civil war, many came to Fauval as military leader, a lot like any civil war on Earth, to try and take the tribe by force during a coup</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* They lost and started a separate tribe</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* That tribe is separated by a strongly patrolled bridge</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Fauval’s side is the side closest to Odyssey </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>DESTRY </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Leader of other Reptilian tribe, she at one stage was the leader of the joint tribe but the civil war that broke out after resources dropped and land was ripped away by the Odyssians and finally when the Odyssians provided humans with reptilian land</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>WIERY</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Fauval’s personal assistant</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>FILLIP</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Destry’s personal assistant </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>HUMANS -</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>EMILY</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Gamma’s unrequited love</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>QUEEN WINTERS</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Evil Queen who killed Summers out of jealousy and power thirst</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>KING SUMMER</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* A good but somewhat stupid King, the human King of Odyssey</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>QUEEN SUMMER</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* The good Queen, murdered in secret by Queen Winters</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>HORSE</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Yeah, it’ll have a name and at least some personality</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>RESISTANCE -</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>ABEL (Human)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Tough, loyal, the leader of the resistance. </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>SETH (Reptilian)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Kinda goofy, but Abel’s right hand man</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>DIABLO (Reptilian)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Solid and dependable, the resistance’s undercover plant </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>RUFUS (Avian)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Annoys the hell out of everyone but violent when required</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>KOJIRO (Avian)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* The group’s main chick, </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>VADER (Human)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>*</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>LUCA (Reptilian)</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* The science leader of the resistance, a former disciple of Tauran and someone who broke away after he realised that something was going on that the people weren’t alert to</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* Like our own planet Odyssey does have environmental issues and the resistance believe mostly in this. </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>OTHER -</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>DAMUS:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>PROTAGONIST:-</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* I’m trying to leave this as blank as possible since so many of the choices you make determine the person you are as you move back through time and make change</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* However, there are immutable truths. You are Gamma’s closest friend, even though he is eccentric and somewhat sociopathic those traits are secondary to a much more complex individual and one that you find fascinating</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text>* For example, although you can’t bring yourself of your own will to do what Gamma requires you to do, it is you, not Gamma who suggests wiping your memory before starting you on your quest to prevent Tauran from using his machine, knowing full well that means killing Alpha and wiping out 99% of the population</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#808080808080" Length="1/8" Page="4" Title="Character sheet, background etc...">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Red sections indicate major plot</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Purple sections are Odyssian based</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Green sections are lizard based</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Blue sections are human based</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Yellow sections are gameplay specific</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INTRODUCTION</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Protagonist</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="3 2/8" Page="4" Title="The beginning of the end of everything">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">At the beginning, you are without memories. You know you are a human, vaguely, but none of your surrounding is familiar. You feel completely refreshed, yet you don't know why. You have in your pocket three items:- a disk, a photograph of you standing next to a woman you do not recognise and a fountain pen with the initials G.W. engraved.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Your surroundings are cold and mechanical and somewhat drab and dreary, not to mention restricted. There is a doorway behind you and in front of you, both are sealed shut with large, metal doors without handles or wheels to spin (like a traditional airlock). This room is fully automated and over it you possess no control.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Standing in front of you is an old, grand looking man with a long grey beard. He looks weary, but determined, and holds in his hands a device that possesses a small screen with a detachable band to strap to your wrist. It's too big to be a regular wrist watch and the machine is making sounds.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The man speaks to you, insisting that he does not have time to explain how and why this is the case but that I must continue onwards without him as he is about to die and it is up to me to save the world from impending doom - the end of time.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Any questions you ask him with regards to who you are or who he is are glossed over but he introduces himself as Gamma and insists that I am the only person capable of stopping the calamity.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">He states that after he dies I need to continue on past the airlock but I will not be able to bring the machine with me when I do. I will have to travel forwards, reach the end of time and then move backwards using the mobile unit.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">On my way I will need to create a path that will allow me back to the airlock, back to the machine, at which point you need to activate it and you will be able to set time in motion again in a linear direction, but only to the present time. The rest will fall in to place.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">This scene is an introductory scene, is vague intentionally and plays strongly in to the time travel mechanics of the game that provide the revelatory exposition. The mechanic is built somewhat similarly to Memento but that would be a major simplification.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Just for the purposes of tonal direction and the way I have pictured this in my head along with its many influences along the way, the game is strongly character driven, characters are complex, sometimes duplicitious, but this is a game without good and bad guys, with complex invidiauls and leans heavily in to other high concept narrative, particularly TV (I'll be giving a special thanks credit to JJ Abrams at the end of the game):-</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Leans in to Fringe, Gamma is a lot like Walter Bishop. This is the game's biggest reveal, but of course this game running backwards means that the introduction is something you learn at the end. In this case, the reason you are here is that Gamma caused the end of time by trying to save his ex-fiance, even though they will never be together. He broke the rules (also will play in to the mechanic) by doing this directly and destroyed the universe. I bring it up here as it will affect the way Gamma speaks and behaves. He has issues and is not very personable but there is some dread and regret in his tone and the way he acts and speaks</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Leans in to Person of Interest, having insight using the machine allows Gamma to know all this, allows both of you to change the outcome of things. This has risks, naturally, but the machine was at least partly built that way. It impacts the effects of things that happened in the past so that you can travel back and change them</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Leans in to Lost and its fifth dimensional time travel mechanics and rules. Constants are also immovable and necessary in this universe, variables are the things that are determined by the machine as able to change, but once you've changed something you can't undo it as you move in a linear fashion. It doesn't come up as obvious just yet but stating it at the first scene makes it easier to understand in future scenes as you slowly come to terms with this reality</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- That means the only exception to the rules about changing the past aren't you, the constants, who were always there, but the variables that you can change indirectly that come from free will. This is by far the single most important mechanic in the game and it will become clearer as the game continues that this is something Gamma never came to terms with</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">After this conversation the man indeed dies, you are horrifed, check for a pulse, freak out a little but compose yourself as the room audio comes on and informs you that the airlock will close in five minutes and decompress, and would kill you (I'm going to start foreshadowing in scene notes for my own purposes as much as anyone who might collaborate. Gamma has set that up on purpose, your dread is because Gamma is your closest friend but he has wiped your memory. He needs you to get going. There is no good reason the airlock needs to close in five minutes).</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">If you try and leave the room without the portable machine you can't, so you equip it, and then you can leave. - I've been playing some visual novel games lately that talk about time and the ones I like never use time as an actual limit, something I've always hated. Time is crucial to this game, but only the concept, not the actual passage. There are no time limits or counters on anything, there are certainly complexities to gameplay elements but they will be more about setting and resetting the flow of time rather than running against the clock. You have infinite time to solve things and therefore get more familiar and crafty as the game takes shape.</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You walk from the airlock to the main lab...</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DAMUS">Damus isn't quite The Machine from Person of Interest, he doesn't talk or quip. But he has a personality. At this stage you only just brush past him but on his screen you see:-
+
+"The time is now, you must continue.". This is the way Gamma has designed him, he doesn't converse, he informs, and he does so with synatical phraseology that in a sense reflects Gamma more than it reflects the machine he created.
+
+Over time you will learn the machine phrases things seriously, it pushes you towards options, it has embedded some level of morality it achieves through loaded language. Sometimes it does this to the detriment of the world and your ability to stay weary and exercise your own best judgment might leave things better than they would otherwise be.
+
+You can't die in this game, you can't not get to the end. But many decisions Damus and you make along the way can change things and sometimes, clearly, for better or worse. It's both sensible and impossible, reinforcing that you can only try your best and if you do so not everything will turn out great but you'll end up living a life that you can be proud of, nevertheless</CharacterArcBeat>
+          <CharacterArcBeat Name="GAMMA">This one is easy - Gamma is awkward, a little hostile and gives off feelings of dread. We know nothing about him yet so he takes shape starting here, mannerism wise, we make sure that we remain somewhat skeptical and he remains aloof so that he can always go either way. It is critical for the script to ensure that Gamma remains vague enough that we can believe it when we decide he is good, decide he is bad and eventually realise he is flawed.
+
+I'm going to write my character beats consistently with the end goal in frame of who each character is so we don't lose sight of that. Naturally fleshing that out fully would be impossible and misguided but as long as we give a vague semblence of where each character is now and where they will get to eventually we will ensure characters retain salient features.
+
+In this case, Gamma is Walter Bishop or Doc from Back to the Future - brilliant but concerning</CharacterArcBeat>
+          <CharacterArcBeat Name="OVERHEAD-AUDIO"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST">You have no memories and a few things in your pocket. Protagonists in video games are a completely different beast than those in TV shows and movies. The reason I give JJ Abrams so much credit is he has been involved in creative projects that turn that on its head a little, TV shows that can feel like games.
+
+Remember the start of Lost or even throughout Lost when we met new people - often they were meeting themselves. We knew nothing and we weren't assumed to just pick up from where we came in, they often gave off the feeling of knowing nothing too and were immersive thanks to that fact.
+
+I'll cover PoI more in Damus's section but briefly the same is true of Root, Reese and Finch in Person of Interest, we knew them more and more as time went on and the feeling of things falling in to place alongside high concept narrative is a high -- like solving a puzzle, an addicitve feeling. Steven Moffat also writes like that, clever.
+
+You don't know who you are, but you learn more about yourself with every move you make, and in a video game your decision making process helps craft that. There are opporunities to make choices that both reflect who you are and reflect how little that can matter when pitted against the lack of control the remainder of the world thrusts upon you.
+
+However, for the meantime, you have no options at all, so go with it, feel weird when Gamma's passing leaves a pit in your stomach and leave before you die, no options here. These beats will be way less structured, a good video game should ensure that if its protagonist is to be flexible</CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Odyssian castle - airlock</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>... where am I? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We do not have time for that right now. In fact, I have very little time indeed</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who are you? What is this place? I can’t remember a damn thing!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Time... did you hear me? It’s running out. There is no such luxury as endless time, empires have fallen never learning better</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t have time to tell me who are where we are right now but plenty of time to wax poetic about philosophical bullshit! I know that I know you... don’t I know you? I know this feeling and I hate it by now</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In the next five minutes I will die. There is no way around that fact. Cryonics, the fountain of youth... ask Dorian Grey, there is no escaping time... and there is no escaping death</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How could you possibly know that you are about to die? You seem perfectly healthy to me, you’re not hooked up to any machines. Were you poisoned? Do you intend to suicide, old man?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <ScriptNote Color="#89895757CFCF" DateModified="20160710T081754" DateTime="20160710T081635" Name="Gamma's death basis" Type="Foreshadow">
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Gamma's death was indeed a suicide. We're lead to believe fairly early on that Damus predicted it and at some stage perhaps that it was a consequence of trying to save Emily but in reality it was suicide. He poisoned himself knowing that if he didn't you would not have continued forward, that is what Damus had told him.</Text>
+        </Paragraph>
+      </ScriptNote>
+      <Text>For the same reason that I know the Universe that you love and hold so dear will follow, close behind me...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s nonsense... &lt;&lt;you have a strange, foreboding sense but you push it to the side&gt;&gt;... You are healthy, you cannot possibly know about the end of the universe or your death or any of this nonsense. Where are we and how long do you intend to leave me here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GammA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Listen, we don’t have time for this. I will tell you what you have to do. This machine on the ground, it’s called Damus. It’s the tool that will ultimately save the universe but I need you to be brave and walk forward without it, after I’m gone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PrOTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fine, I’ll play. Walk forward to where?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GammA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>To the end of the universe of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">course...&lt;&lt;you</Text>
+      <Text> flinch this time but shake it off with a laugh. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hahaha.&gt;&gt;</Text>
+      <Text>... You can’t take Damus but you can take the mobile unit. It will let you back, when you finally get there, you will move backwards through time and come right back here</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PrOTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>... </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">what’s</Text>
+      <Text> the mobile unit? How do I travel backwards through time and what do I do when I arrive?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The mobile unit, on the floor here, strap it to your wrist and walk beyond the door. It’s that simple. And unfortunately moving backwards through time is just another form of the same linear line. You will need to prepare along your way to ensure your safe return passage...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PrOTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Alright</Text>
+      <Text>, say I do all that. When I get here, I mosey over your dead body and then what the hell do I do? This is as far back as I can even remember</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GamMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You will, I’m sorry to say, have to watch me die all over again. Only then, and at this point, will you get control of Damus. For real. Once you do you will have control all over again. Time will feel like it’s flowing, to you and to everyone, but you will be paused in the same static moment right before the calamity.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PrOTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Calamity... that’s what we’re calling it. OK, well this has been fun and all but enough with the game. Let me out of here, tell me where the hell I am because I am not playing</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At this stage, Gamma collapses to the floor. Although you don’t know him you can’t help but rush over to him. When you arrive you put your hand on his wrist and neck but there is only a faint pulse. He looks extremely weary</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GaMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One day, you will know how sorry I am. This moment, it’s the beginning of the end. But in so many ways, it’s the end of a glorious beginning. One that you will usher in. Proud and ashamed, pride and shame...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gamma passes away and you freak out, start trying to perform CPR</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PrOTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t die on me you old kook, I don’t know what is happening</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GammA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pride. And shame.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gamma passes away. There is nothing you can do. You sit listlessly as the airlock door in front of you opens. You consider your options but stay with the old man until a voice beckons</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Overhead-Audio</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Five minutes until airlock decompression, please leave the airlock to avoid asphyxiation.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(If you were to ignore this warning, nothing happens, but you do need to keep moving. Before you move you must collect the portable unit)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You pick up the portable unit</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ProTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here goes... Who knows?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As you walk past the main unit, it has something flashing on the screen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAMUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The time is now, you must continue</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>And you leave the room</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="2/8" Page="8" Title="First brave steps to oblivion">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Once you pass in to the main lab the only ways that this version of Gamma communicates with you anymore are through cue-cards, through Damus and occassionally through audio tapes (a few other cute ways will come up along the way, maybe in the form of puzzles, like books or lights or encoded messages)</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Therefore, once you enter the main lab, a massive room filled with all sorts of science equipment, beakers, animals, machines etc... there are also breadcrumbs and notecards along the way to inform you of what you have to do</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- At various points, the notes on the floor are the right way around and some are mirrored</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The notes are all from Gamma who advises that to navigate backwards once you've reached the end you need to plan in advance</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The portable allows you to move in a linear fashion backwards in time but without the machine you can't change anything other than your own route back</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma explains on the cue-cards that you must ensure that the path back exists before you move forwards. He provides you a gun that can slot in to a machine that will pull the trigger on a timer, shooting a lock</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma also uses this time to explain that even your own actions can't be changed in this configuration, via notes</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Next you encounter a weight sensor that opens a door, but the weight required on one side is substantially more than the other as this is a paddock</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You pick up a computer disk similar to the one with which you started after entering in a pin number. Rather than provide it to you, Gamma asks you to look inside yourself to find the number. This begins a story section where you focus your mind after becoming frustrated at your inability to move forwards and you can sense the numbers coming to you. You need to let your finger hover and if it is shaking near the correct button then it is correct. The passcode is 4210</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The safe opens and a keycard and disk comes out of the slot</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You use the keycard on the door and the disk on the Nostra terminal</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GAMMA"></CharacterArcBeat>
+          <CharacterArcBeat Name="HORSE"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Odyssian castle - main lab</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As you enter the room you take in your surroundings and where you can move to next you see a security door</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>OK, now what... I have no idea what I am doing</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Horse</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="8" Title="On the threshold of a scream">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">= There is a note before you reach the terminal where Gamma explains that in fact you can't change your own actions in the past at all as it creates a calamity, a universe wide paradox that destroys spacetime</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You reach a computer terminal. You insert the floppy disk drive and then the disk you had at the start</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma's note at the earlier machine instructs you to use the disk you unlocked and swipe the keycard, but the disk only accesses the partition that reaches the calamity. He explains that although this might sound crazy, there is no option to avoid the fixed point and any attempt to thwart it from occurring will likely cause it</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Causality and freewill are explored here, and a theme emerges that although you cannot change the future or the past your actions in any given moment go a long ways to shaping both</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You execute the code and experience the calamity, briefly. I don't know what that looks or sounds like just yet but it will be something meaningful, likely involving Delilah and any abstract notion of afterlife</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You press the button on the portable despite not having been explained how it works and get a few vague memories: the ocean, prison life, the smell of fresh grass</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GAMMA"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Nostra terminal</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gamma</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="2/8" Page="8" Title="Not normal, new normal">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Time begins to move backwards. The notes are now flipped and provide mostly exposition, how next you will have to do unpleasant things, but that's what it takes to save the Universe</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The gun will go off at the same location, the horse has moved to trigger the gate opening and back at the first room, you can equip the machine which opens the left door and allows you to move on</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GAMMA"></CharacterArcBeat>
+          <CharacterArcBeat Name="HORSE"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Odyssian castle - main lab</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HORSE</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="2/8" Page="8" Title="Isn't this where we came in?">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- As Gamma advised earlier, you only get there in time to see him die again. After that everything is still until you pick up the Damus</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- When you do, tapping the portable against the front without knowing that you needed to for any sensible reason, time moves forwards as advised by Gamma</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma remains dead on the ground but now the airlock opens on the left side stating that decompression is complete and welcome to Odyssey, Tauran</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The name sounds vaguely familiar. You attach the machine to your back (it's the shape and size of a backpack) and keep the portable unit on your wrist</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- If you investigate Gamma there's not a lot you can do but you feel worse each time until you eventually feel sick and the room starts shaking a little. At that stage you have to leave if you haven't already</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Not a lot else here at this stage</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DAMUS"></CharacterArcBeat>
+          <CharacterArcBeat Name="GAMMA"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Odyssian castle - Airlock</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAMUS</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="2/8" Page="8" Title="Backwards to go forwards">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The science bunker is what opens up to the airlock, the airlock clearly opening to the most experimental portion of the facility</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The bunker is full of items that are all covered in cloth, you can remove the cloth and see many exhibits</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The exhibits are labelled. Some are biological and refer to the human race, others to the lizard race, some are artifacts from the conquest, some are artifacts from the banned time program</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The time program details are scattered around and a number of electronic pamphlets will describe some of the time program, how it was shut down and how it lead to capture and imprisonment</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DAMUS"></CharacterArcBeat>
+          <CharacterArcBeat Name="GAMMA"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+          <CharacterArcBeat Name="TAURAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Odyssian castle - science bunker</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PROTAGONIST</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GAMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TAURAN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAMUS</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="8" Title="Deeper treatment">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- When you enter the sub-basement you are immediately captured by the Odyssian guards</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- They are aware that you and Gamma broke in to the property and wish to arrest you in order to question you</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GUARD ONE"></CharacterArcBeat>
+          <CharacterArcBeat Name="GUARD TWO"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Odyssian castle - sub-basement</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="8" Title="Long way from the bottom">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You follow the guards down in to the basement who continue to discuss the fact that they found you, that they had some idea of your plans and that you would be questioned in detail</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Some exposition regarding Gamma, the Calamity and very minor details about yourself are revealed</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GAMMA"></CharacterArcBeat>
+          <CharacterArcBeat Name="GUARD ONE"></CharacterArcBeat>
+          <CharacterArcBeat Name="GUARD TWO"></CharacterArcBeat>
+          <CharacterArcBeat Name="PROTAGONIST"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Odyssian castle - basement</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="9" Title="Closer, now, quickly">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Further exposition, you start getting more familiar with the castle at this point as your map starts developing</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You get to know the two guards somewhat as well who happen to lead Alpha's royal guard</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Odyssian castle - stairwell </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="9" Title="Almost there...">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- This is the castle's main thoroughfare, in it you can access back to the science bunker, to the security areas including the interrogation room and the rest of the residency</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You mostly just continue to walk through here and the guards talk to one another</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Odyssian Castle - great hall, castle five</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="9" Title="And that's a wrap">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The guards check you in with the person behind the desk, they take the cuffs off but give you prison robes to change in to and formally arrest you</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- They move you in to the interrogation room to continue</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Odyssian castle - Security desk</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="9" Title="I have no idea... no, really">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Interrogation provides a combination of exposition regarding the scenario, doomsday/calamity, the resistance and Gamma</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- It also further emphasises that you remember exactly nothing and that the guards can't get any real info out of you because of this fact</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Odyssian castle - interrogation room </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="9" Title="Gamma not over">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma was planning for this and has already organised through members of forces loyal to him a tunnel via which to escape</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You wait until the guards are out of the room, follow the notes to reveal the tunnel under the bed in the room and make your escape</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Odyssian castle - hidden tunnel </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="9" Title="The not so great escape">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The tunnel escapes in to the fourth courtyard, the only one not monitored by security</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- However, the alarm has been tripped, so you need to make a move. Gamma has provided you new clothes in the courtyard so you change in to them and walk towards the drawbridge. The disguise includes a wig and glasses</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Odyssian castle - courtyard four </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="9" Title="Is this fresh air?">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Over the drawbridge security notices you, questions you briefly, but then tells you to move along, especially once they get the intercom call matching your prior description and quickly assess that it isn't you</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Over the drawbridge, at the other end, the resistance are circling, noticing the unruliness and recognise you despite your disguise</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- They begin to question you</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Odyssian castle - drawbridge</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFFFFFF0000" Length="1/8" Page="9" Title="Finally, they are talking sense">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The resistance also wish to stop the end of the world, but although you don't know it yet, their world end is very different from the one that will actually occur</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- They refer to this as end times and are working hard against King Alpha and the Odyssians to save the world by shutting down the science program</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- This is closer to a climate change scenario than that of time travel, but they are vague, and with reason, they only know that something terrible is happening but aren't completely certain of what, they are simply noticing the signs</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- They know who you are (something you don't) and kidnap you as a ransom to have their demands met</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Meet the resistance</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFFFFFF0000" Length="1/8" Page="9" Title="Actually, they have no defense">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The reason that they are aware of their control over you is that they know just how wanted you are as Gamma's right hand man and best friend and a massive threat to Alpha and to the science program</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Their demands are they will give you up if the resistance gets access to get access to Tauran's notes, plans, full details of the oncoming disaster, policy to change based upon their own findings of their own science wing</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Kidnapped by resistance</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="A slippery situation">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The first tribe are friendly, for the first time you are welcome and the leaders mostly talk about the ongoing civil war that is making life difficult, especially as the environment on their own planet fails around them</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- You learn that they are in civil war with a tribe that used to be at peace with them over land rights for some of the most sustainable land. As a result of the war, the bridge that links both tribes was destroyed </Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TRIBE CAMP = ESCAPE TO REPTILIAN TRIBE</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="A snake in our midst">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The leaders inform you that their tribe is not a provacateur and a coup was formed against them by the other tribe that were once joined, and had reached near to harmony many times when scant resources caused issues</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">* Options for resolving issue (first sequence, will always lead to bridge destruction)</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Go back in time and </Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TRIBE CAMP = MEET TRIBAL LEADERS</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="Can't we lizard to get along?">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TRIBE HALL - LEARN OF HOLY WAR AND THEIR PLANS FOR THE END</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="A bridge too rarrrr">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TRIBE HALL, RIVER BRIDGE (HOPE SIDE) - BRIDGE ISSUES </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="Fixed it, kinda, not so much">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>TRIBE HALL, HOPE TOWER, TRIBE CAMP, BRIDGE (HOPE SIDE) - FIX FIRST TRIBES DON'T MEET, NO BRIDGE AT ALL</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="Fixed it for realsies, this time">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>BRIDGE (HOPE SIDE), HOPE TOWER, HOPE PARK, TRIBE HALL, TRIBE </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">HAMP</Text>
+      <Text>, BRIDGE (HOPE SIDE) - FIX SECOND TRIBES RECONCILE, BRIDGE FIXED</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>BRIDGE (NEW HOPE SIDE) SOME REWARDS, PROPERLY MEET DESTRY</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="How do you spell super?">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Death of alpha</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="We're screwed">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Death of beta</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Who's a bad dog?">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Purchasing delta first</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="I miss that guy">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Purchasing delta second</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="The end of the beginning">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Gamma prevents 1% of calamity</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="This is actually the end of the game">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Tauran prevents 100% of calamity</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#00000000FFFF" Length="1/8" Page="10" Title="Fixed it">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Queen Winters enters in to treaty </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="10" Title="The tribes have spoken">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Fauval and destry introduction</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="10" Title="The tribes are mute">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Fauval and destry never meet </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="10" Title="The tribes combined">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Fauval and destry build bridge and form one colony</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="He was a bad ruler">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Beta lives and causes chaos</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="She CAN'T be right... can she?">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Omega introduces herself and tries to get you to believe gamma is evil</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="She seems pretty right to me...">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Gamma is king after DEAth of alpha and beta</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="Wait... somehow it's WORSE!">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Gamma is king after death of alpha but beta is king first</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="Fixed it">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Imprisoning Beta</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="...................">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Omega convinces you of gamma being bad</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Woooo">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Death of tauran</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Woooo Two">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Prevent Taiwan's death</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Two heads destroying one">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Tauran's solution has a 99% chance of saving 100% of the universe</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma's solution has a 100% chance of saving 99% of the universe</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma believes that the risk is not worth it. This is something he argued with you about before erasing your memories (you find that out before you find out that you actually agreed to have them wiped)</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Find out about two solutions to calamity</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="A tear jerker">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma used to be in a relationship with Emily but they broke up, he was too intense for her, he put science before her</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Emily ended up in a relationship with a new man, her new man was driving her in his car one day and became distracted</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- They ended up in an accident that killed them both</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma was trying everything he could to stick to the rules and save them but nothing worked</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma therefore broke the rules and saved her directly, which led to the calamity</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- He has tried his hardest to undo this but nothing will allow him to as you are unable to change anything you yourself changed in the past directly</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Find out about Emily and gamma</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFFFFFF0000" Length="1/8" Page="10" Title="An occurrence in each borough">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Various instances of getting FERRY running</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="11" Title="Memories">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Various things you learn About yourself</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="11" Title="A picture is nearly formed">
+        <Summary>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma eventually lets you free so these next two items happen in order, however, the three items will be delivered separately and the disk is decoded slowly throughout the game's runtime</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The photo is of you and your wife, Matilda. You asked Gamma to erase your memory (or at least agreed to it) because you understood the importance of saving the universe but did not believe you could do the job effectively abandoning your wife</Text>
+          </Paragraph>
+          <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+            <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma is able to predict with a 100% certainty that embarking on the mission would end your relationship forever</Text>
+          </Paragraph>
+        </Summary>
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Finding out meaning of inventory items at start of game</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="11" Title="And now it ALL makes sense">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Regain all memories of gamma</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Text=""/>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges>
+      <Range End="6883" Start="6875"/>
+      <Range End="7851" Start="7846"/>
+    </IgnoredRanges>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.69" Width="8.26"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="374" Left="0" Mode="Maximized" Top="0" Width="1120"/>
+
+  <TextState Scaling="100" Selection="5060,5060" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="22" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="11" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="11" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="11" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="22" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Codename</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"> Calamity</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Luke </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Redgen</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.26" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">admin</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@lukeredgen.com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">0407318155</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="100,100" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>DAMUS</Character>
+      <Character>PROTAGONIST</Character>
+      <Character>GAMMA</Character>
+      <Character>Gama</Character>
+      <Character>Overhead-Audio</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>Int</SceneIntro>
+      <SceneIntro>Ext</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>ODYSSIAN CASTLE</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>Day</TimeOfDay>
+      <TimeOfDay>Night</TimeOfDay>
+      <TimeOfDay>Afternoon</TimeOfDay>
+      <TimeOfDay>Morning</TimeOfDay>
+      <TimeOfDay>Evening</TimeOfDay>
+      <TimeOfDay>Later</TimeOfDay>
+      <TimeOfDay>Moments Later</TimeOfDay>
+      <TimeOfDay>Continuous</TimeOfDay>
+      <TimeOfDay>The Next Day</TimeOfDay>
+      <TimeOfDay>SCIENCE BUNKER</TimeOfDay>
+      <TimeOfDay>AIRLOCK</TimeOfDay>
+      <TimeOfDay>MAIN LAB</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>Cut To:</Transition>
+      <Transition>Fade In:</Transition>
+      <Transition>Fade Out.</Transition>
+      <Transition>Fade To:</Transition>
+      <Transition>Dissolve To:</Transition>
+      <Transition>Back To:</Transition>
+      <Transition>Match Cut To:</Transition>
+      <Transition>Jump Cut To:</Transition>
+      <Transition>Fade To Black.</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#FFFF00000000" FullRevision="No" ID="1" Mark="*" Name="First Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="2" Mark="*" Name="Second Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#0000FFFF0000" FullRevision="No" ID="3" Mark="*" Name="Third Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#FFFFFFFF0000" FullRevision="No" ID="4" Mark="*" Name="Fourth Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="1912">
+    <ScriptPanel DisplayMode="Normal">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Shift+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Cast List"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice="H"/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice="H"/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice="H"/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Fast" WinVoice="H"/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Very High" Speed="Medium" WinVoice="H"/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="High" Speed="Slow" WinVoice="H"/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Very High" Speed="Medium" WinVoice="H"/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Very High" Speed="Slow" WinVoice="H"/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Low" Speed="Slow" WinVoice="H"/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Low" Speed="Slow" WinVoice="H"/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1"/>
+    <Member Actor="Man 1" Character="DAMUS"/>
+    <Member Actor="Man 1" Character="PROTAGONIST"/>
+    <Member Actor="Man 1" Character="GAMMA"/>
+    <Member Actor="Man 1" Character="Gama"/>
+    <Member Actor="Man 1" Character="Overhead-Audio"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="DAMUS" Visible="No"/>
+    <Character Color="#D0D0BCBCECEC" Name="GAMMA" Visible="Yes"/>
+    <Character Color="#FFFFFFFFFFFF" Name="HORSE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="OVERHEAD-AUDIO" Visible="No"/>
+    <Character Color="#B7B7DFDFFDFD" Name="PROTAGONIST" Visible="Yes"/>
+    <Character Color="#FFFFFFFFFFFF" Name="TAURAN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="E" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="EN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ENT" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ENTE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ENTER" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ENTERI" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ENTERIN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DAMU" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DAM" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="D" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order">
+    <Column Width="50">Order</Column>
+    <Column Width="171">Title</Column>
+    <Column Width="64">Location</Column>
+    <Column UserType="CharacterColumnType" Width="98">PROTAGONIST</Column>
+    <Column UserType="CharacterArcColumnType" Width="1402">PROTAGONIST</Column>
+  </CharacterNavigatorPreferences>
+
+</FinalDraft>
