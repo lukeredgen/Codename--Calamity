@@ -21,6 +21,14 @@ Lastly, those mark down files are there to easily read and skim on GitHub, where
 
 *Sprites*
 
+Will eventually include all of these game assets.
+
 *Rooms*
 
+This is a set of game assets and markdown files for every room in the game, split in to subfolders per part.
+
 *Characters*
+
+A markdown file for each character. This is the character bible, complete with the species, age, gender, living status, profession, relationships, traits, allies, rivals, sins, virtues and personality. 
+
+Beats are included where integral and linked back by reference to the events that lead to them.
