@@ -1,1 +1,1 @@
-# Part VI - Alpha Dog Meet Beta Max## Chapter
+# Part VI - Alpha Dog Meet Beta MaxAlpha's troops have locked up Beta and the rebels who are in the midst of attempting a coup. Gamma requires that you kill Alpha and free Beta to allow Beta to take over the kingdom as Alpha is an oppressive and evil king.Delta tries to get you to stop but Gamma anticipates this and you have no opton but to kill Alpha, which you eventually, irreversibly do. Moving forward in time again you determine the outcome has not been good for i

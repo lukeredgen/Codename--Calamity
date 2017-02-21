@@ -1,1 +1,1 @@
-# Part III - Resistance is Futile## Chapter
+# Part III - Resistance is Futile

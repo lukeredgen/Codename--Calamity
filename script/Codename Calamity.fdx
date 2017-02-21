@@ -6,13 +6,21 @@
       <Text>Some backstory, here are a bunch of observations about my own work:-</Text>
     </Paragraph>
     <Paragraph Type="General">
-      <Text>* The Odyssians invaded this planet in 2025, the native Lizard people race were killed in a bloody war that they see as “The Invasion” while the Odyssians refer to it as “the Conquest”</Text>
+      <Text>* The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Odyssians</Text>
+      <Text> invaded this planet in 2025, the native Lizard people race were killed in a bloody war that they see as “The Invasion” while the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Odyssians</Text>
+      <Text> refer to it as “the Conquest”</Text>
     </Paragraph>
     <Paragraph Type="General">
-      <Text>* The humans came in 2030 after destroying Earth and having already teraformed and destroyed Mars and some other planets</Text>
+      <Text>* The humans came in 2030 after destroying Earth and having already </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">teraformed</Text>
+      <Text> and destroyed Mars and some other planets</Text>
     </Paragraph>
     <Paragraph Type="General">
-      <Text>* With the Odyssians, subconsciously I believe the names fell in to place</Text>
+      <Text>* With the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Odyssians</Text>
+      <Text>, subconsciously I believe the names fell in to place</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text></Text>
@@ -786,124 +794,324 @@ However, for the meantime, you have no options at all, so go with it, feel weird
       <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="6" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>BRIDGE (NEW HOPE SIDE) SOME REWARDS, PROPERLY MEET DESTRY</Text>
+      <Text>BRIDGE (NEW HOPE SIDE) SOME REWARDS, PROPERLY MEET </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">DESTRY</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="6" Title="">
+      <SceneProperties Color="#0000FFFF0000" Length="2/8" Page="6" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text></Text>
+      <Text>Enter human kingdom illegally across border</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Kingdom requires an entry Visa and passport that you are not in possession of. You are escorted by </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text>, an ex-citizen who was banished never allowed to come back. She still has friends who can get you across over the border wall in return for all that you have done for the Reptilians</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="6" Title="How do you spell super?">
+      <SceneProperties Length="2/8" Page="6" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Captured by royal guard</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You are seized on your way through the border and the royal guard immediately recognise </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text> and you are brought to a holding cell within the royal castle to be brought before the King and Queen themselves</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="6" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Meet King and queen</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You are brought before King Summers and Queen Winters. The Queen asks </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text> if she remembers what her punishment had been and why she would ever dare return. Her punishment for returning was always to be most severe: death. You are returned to your cells</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Brought back to cells</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The guards bring all three of you back to your cells but this time </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text> in to her own cell. Eventually you are informed by the guards that you are free to leave but must cross back to the Reptilian empire after you have finished in the main town of the Human Empire</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Accessing the second time core</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Before </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text> is left behind she gives you a name, Talon Alderson to track down to get you access to the second core to fix the mess that has happened to the empire. You explore town looking for the man and eventually find a woman who says she can help you. She brings you to Talon.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Meeting Talon Alderson</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You are brought to a shack a little out of town and immediately have a gun pointed at both of you by an older, unruly looking man. He suggests that a high ransom might be paid for you before you finally blurt out </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina’s</Text>
+      <Text> name. He puts the gun down, he knows both </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text> and Isabella. He is </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina’s</Text>
+      <Text> father.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He says he can give you the time core but he needs you to do something for him first, to prove that you are trustworthy. There is a small troop of Royal Guard in the forest and he needs you to go out and kill them since he would be a wanted man if he did so himself, so he needs you to do it for him.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Killing Guards in the forest</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Choices) Here you can either kill the guards or you can threaten their lives and demand that they flee immediately and far away from the location so that Talon believes you dumped their bodies.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>A Fugitive</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Either way, at this stage the Kingdom realizes you are still in town as they go out and look for their missing men, (Choices) you can either protect Talon here and confess to being involved in their disappearance alone or pin it on him and all three of you are arrested. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Back to Jail</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You are brought back in front of the King and Queen who demand on the spot that either the two or three of you be executed. You are placed in the cell next to </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Accessing the third time core</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You are brought to the cell next to </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text>. You can escape from it but she cannot. Other than the fact you don’t have the third core yet or the piece required for Damus, you also want to save </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text> and prevent the chaos in the empire knowing that her mother is dead thanks to the Queen as is the previous Queen, so when you find the means to escape rather than make a run for the border you fight your way through the prison until you kill the main warden to get the final piece of time core.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You get back just in time to see </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina</Text>
+      <Text> assassinated by one of the royal guards, and although you kill him you’re too late. She tells you this is the location she believes most likely and strongly will link to Damus is the cell in which she is dying as that is where her mother died. She dies and you activate Damus which does indeed link to this cell.  She whispers the words “Cease the day” in her dying breaths.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Back in time in cell</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>When you arrive back in time you arrive in an empty cell which is open and nobody else in the prison. At this stage the empire is a relatively peaceful place. You sneak out back in to town.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scenes before to be added</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Getting access to the resistance movement</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Princess Winters coup group are situated at an abandoned office in town. You knock on the door of this office and you are asked for a password. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rosalina’s</Text>
+      <Text> final words are the correct password and you are permitted entry.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Proving that you are a real enemy of the crown</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Choices) You are ordered to kill a guard. If you don’t do so, Isabella will do it for you and take responsibility for you, but now you are on her head. You can also kill him and prove your loyalty.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You learn that the reason that Isabella joined the resistance movement was the fact that humans came to her planet and destroyed her land with the permission of the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Odyssians</Text>
+      <Text> including killing her own parents. This is somewhat of a mission of revenge but additionally Princess Winters has promised to be a leader for all, including the reptilians, if they join her cause.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The King is lazy and stupid and is having an affair with Princess Winters. She has managed to convince the members of her group that the much loved Queen Summers hates them and only cares about the wealthy humans despite her causes at times for the Reptiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Learn Winters plan</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her plan is to have the Queen assassinated and pin it on Isabella. You need to record that conversation, find out the true culprit and prove that he is trying to kill Summers. The culprit turns out to be the Prince and leader of Military, Prince Gallant and you arrive just in time to play the tape over the loudspeaker.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On hearing the tape Isabella is stunned and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">realises</Text>
+      <Text> the error of her ways and pushes the Queen out of the way of Stephen Gallant’s arrow only to be hit herself and to die. At this stage the military is sent along with you to bring the Princess to justice</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Find the princess</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Choices) You will be in the lead when you find her and your options will be to kill her or to bring her to justice in front of the guard to be tried</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Back in the Present</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You travel with Damus to the present, back to the cell which is now, along with all the others around it, empty. You meet the now King and Queen Summers who thank you for all that you did in exposing the plot of the assassins and they thank you by supplying you with part of the Damus primary core.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="How do you spell super?">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Death of alpha</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="6" Title="We're screwed">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="We're screwed">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Death of beta</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="6" Title="Who's a bad dog?">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="Who's a bad dog?">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Purchasing delta first</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="6" Title="I miss that guy">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="I miss that guy">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Purchasing delta second</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="6" Title="The end of the beginning">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="The end of the beginning">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Gamma prevents 1% of calamity</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="6" Title="This is actually the end of the game">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="9" Title="This is actually the end of the game">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Tauran prevents 100% of calamity</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tauran</Text>
+      <Text> prevents 100% of calamity</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#00000000FFFF" Length="1/8" Page="6" Title="Fixed it">
+      <SceneProperties Color="#00000000FFFF" Length="1/8" Page="9" Title="Fixed it">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Queen Winters enters in to treaty </Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="6" Title="The tribes have spoken">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="10" Title="The tribes have spoken">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Fauval and destry introduction</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Fauval</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">destry</Text>
+      <Text> introduction</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="6" Title="The tribes are mute">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="10" Title="The tribes are mute">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Fauval and destry never meet </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Fauval</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">destry</Text>
+      <Text> never meet </Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="7" Title="The tribes combined">
+      <SceneProperties Color="#0000FFFF0000" Length="1/8" Page="10" Title="The tribes combined">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Fauval and destry build bridge and form one colony</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Fauval</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">destry</Text>
+      <Text> build bridge and form one colony</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="7" Title="He was a bad ruler">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="He was a bad ruler">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Beta lives and causes chaos</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="7" Title="She CAN'T be right... can she?">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="She CAN'T be right... can she?">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Omega introduces herself and tries to get you to believe gamma is evil</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="7" Title="She seems pretty right to me...">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="She seems pretty right to me...">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Gamma is king after DEAth of alpha and beta</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="7" Title="Wait... somehow it's WORSE!">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="Wait... somehow it's WORSE!">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Gamma is king after death of alpha but beta is king first</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="7" Title="Fixed it">
+      <SceneProperties Color="#FFFF0000FFFF" Length="1/8" Page="10" Title="Fixed it">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Imprisoning Beta</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="...................">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="...................">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Omega convinces you of gamma being bad</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="Woooo">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Woooo">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Death of tauran</Text>
+      <Text>Death of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">tauran</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="Woooo Two">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Woooo Two">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Prevent Taiwan's death</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="Two heads destroying one">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Two heads destroying one">
         <Summary>
           <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
             <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Tauran's solution has a 99% chance of saving 100% of the universe</Text>
@@ -920,7 +1128,7 @@ However, for the meantime, you have no options at all, so go with it, feel weird
       <Text>Find out about two solutions to calamity</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="A tear jerker">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="A tear jerker">
         <Summary>
           <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
             <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma used to be in a relationship with Emily but they broke up, he was too intense for her, he put science before her</Text>
@@ -946,19 +1154,19 @@ However, for the meantime, you have no options at all, so go with it, feel weird
       <Text>Find out about Emily and gamma</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFFFFFF0000" Length="1/8" Page="7" Title="An occurrence in each borough">
+      <SceneProperties Color="#FFFFFFFF0000" Length="1/8" Page="10" Title="An occurrence in each borough">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Various instances of getting FERRY running</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="Memories">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="Memories">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Various things you learn About yourself</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="A picture is nearly formed">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="A picture is nearly formed">
         <Summary>
           <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
             <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Gamma eventually lets you free so these next two items happen in order, however, the three items will be delivered separately and the disk is decoded slowly throughout the game's runtime</Text>
@@ -975,7 +1183,7 @@ However, for the meantime, you have no options at all, so go with it, feel weird
       <Text>Finding out meaning of inventory items at start of game</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="7" Title="And now it ALL makes sense">
+      <SceneProperties Color="#FFFF00000000" Length="1/8" Page="10" Title="And now it ALL makes sense">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Regain all memories of gamma</Text>
@@ -1023,7 +1231,7 @@ However, for the meantime, you have no options at all, so go with it, feel weird
 
   <WindowState Height="374" Left="0" Mode="Maximized" Top="0" Width="1120"/>
 
-  <TextState Scaling="100" Selection="650,650" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="6395,12584" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -1033,19 +1241,19 @@ However, for the meantime, you have no options at all, so go with it, feel weird
 
   <ElementSettings Type="Scene Heading">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="22" Spacing="1" StartsNewPage="No"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
     <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
   </ElementSettings>
 
   <ElementSettings Type="Action">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="11" Spacing="1" StartsNewPage="No"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
     <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
   </ElementSettings>
 
   <ElementSettings Type="Character">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="11" Spacing="1" StartsNewPage="No"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
     <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
   </ElementSettings>
 
@@ -1063,13 +1271,13 @@ However, for the meantime, you have no options at all, so go with it, feel weird
 
   <ElementSettings Type="Transition">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="11" Spacing="1" StartsNewPage="No"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
     <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
   </ElementSettings>
 
   <ElementSettings Type="Shot">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="22" Spacing="1" StartsNewPage="No"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
     <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
   </ElementSettings>
 
@@ -1094,170 +1302,170 @@ However, for the meantime, you have no options at all, so go with it, feel weird
       </Footer>
     </HeaderAndFooter>
     <Content>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Codename</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"> Calamity</Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Luke </Text>
         <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Redgen</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.26" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.03" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">admin</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@lukeredgen.com</Text>
       </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.79" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="6.56" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">0407318155</Text>
       </Paragraph>
     </Content>
@@ -1288,6 +1496,21 @@ However, for the meantime, you have no options at all, so go with it, feel weird
     </SceneIntros>
     <Locations>
       <Location>ODYSSIAN CASTLE</Location>
+      <Location>ENTER HUMAN KINGDOM ILLEGALLY ACROSS BORDER</Location>
+      <Location>CAPTURED BY ROYAL GUARD</Location>
+      <Location>MEET KING AND QUEEN</Location>
+      <Location>MEETING TALON ALDERSON</Location>
+      <Location>KILLING GUARDS IN THE FOREST</Location>
+      <Location>A FUGITIVE</Location>
+      <Location>BACK TO JAIL</Location>
+      <Location>ACCESSING THE THIRD TIME CORE</Location>
+      <Location>BACK IN TIME IN CELL</Location>
+      <Location>SCENES BEFORE TO BE ADDED</Location>
+      <Location>GETTING ACCESS TO THE RESISTANCE MOVEMENT</Location>
+      <Location>PROVING THAT YOU ARE A REAL ENEMY OF THE CROWN</Location>
+      <Location>LEARN WINTERS PLAN</Location>
+      <Location>FIND THE PRINCESS</Location>
+      <Location>BACK IN THE PRESENT</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>Day</TimeOfDay>
@@ -1331,7 +1554,7 @@ However, for the meantime, you have no options at all, so go with it, feel weird
     <Revision Color="#FFFFFFFF0000" FullRevision="No" ID="4" Mark="*" Name="Fourth Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="1912">
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="1358">
     <ScriptPanel DisplayMode="Normal">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
     </ScriptPanel>
@@ -1637,17 +1860,6 @@ However, for the meantime, you have no options at all, so go with it, feel weird
     <Character Color="#FFFFFFFFFFFF" Name="OVERHEAD-AUDIO" Visible="No"/>
     <Character Color="#B7B7DFDFFDFD" Name="PROTAGONIST" Visible="Yes"/>
     <Character Color="#FFFFFFFFFFFF" Name="TAURAN" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="E" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="EN" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="ENT" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="ENTE" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="ENTER" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="ENTERI" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="ENTERIN" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="DAMU" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="DAM" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="DA" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="D" Visible="No"/>
   </CharacterHighlighting>
 
   <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order">
